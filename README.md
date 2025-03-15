@@ -9,10 +9,9 @@ Pengguna dapat **mendaftarkan wajah** mereka untuk login tanpa perlu menggunakan
 ---
 
 ## **Fitur**  
-✅ Autentikasi menggunakan Face Recognition  
-✅ Penyimpanan data wajah di Supabase  
-✅ Login tanpa password  
-✅ Alternatif login dengan email (opsional)  
+[x] Autentikasi menggunakan Face Recognition  
+[x] Penyimpanan data wajah di Supabase  
+[x] Login tanpa password  
 
 ---
 
